@@ -1,0 +1,21 @@
+restrospective meeting - 
+what went well?
+what didnt go well?
+what should we stop?
+what should we start?
+
+scrum master will be reminding everyone of 3 points during every single stand up
+
+we learn as we move forward
+
+first day of sprint 0
+
+jira demo given
+
+
+deployment strategy? what tool ?code review? release manager?
+
+
+
+
+
